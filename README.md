@@ -6,8 +6,7 @@ Domain Name: Java Programing
 Duration: 15 June to 15 July 2024
 Mentor: Sravani Gouni
 
-**OVERVIEW OF PROJECT**
-__________________________________________________________________________________________________________________________________________________________________________________
+#OVERVIEW OF PROJECT
 
 **Project: Simple Calculator**
 
