@@ -1,10 +1,15 @@
 # CODTECH-Task1
-Name: Aditi Kushwaha
-Company: CODTECH IT SOLUTIONS
-ID: CT04JP2305
-Domain Name: Java Programing
-Duration: 15 June to 15 July 2024
-Mentor: Sravani Gouni
+**Name**: Aditi Kushwaha
+
+**Company**: CODTECH IT SOLUTIONS
+
+**ID**: CT04JP2305
+
+**Domain Name**: Java Programing
+
+**Duration**: 15 June to 15 July 2024
+
+**Mentor**: Sravani Gouni
 
 ## OVERVIEW OF PROJECT
 
