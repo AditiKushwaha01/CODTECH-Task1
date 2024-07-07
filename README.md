@@ -20,6 +20,7 @@ The Objective of the Task 1 is to create a Java program that acts as a basic cal
 
 ### Key Features
 **Easy Code**: The code are in Java Programing language very simple to understand.
+
 **Switch Case**: The main advantage of Switch Case that it makes it easy to navigate directly to specific operation instead of checking all the operations like in if else.
 
 ### Technology Used
